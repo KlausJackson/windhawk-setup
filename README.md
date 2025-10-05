@@ -25,15 +25,15 @@ You will need both mods for this to work.
 <details>
     <summary>JSON</summary>
 
-    ```json
-    {
-        "TaskbarHeight": 58,
-        "IconSize": 32,
-        "TaskbarButtonWidth": 44,
-        "IconSizeSmall": 16,
-        "TaskbarButtonWidthSmall": 32
-    }
-    ```
+```json
+{
+    "TaskbarHeight": 58,
+    "IconSize": 32,
+    "TaskbarButtonWidth": 44,
+    "IconSizeSmall": 16,
+    "TaskbarButtonWidthSmall": 32
+}
+```
 
 </details>
 
