@@ -1,6 +1,9 @@
 # windhawk-setup
 
-My windhawk setup. You can copy and keep the things you like, change the things you don't.
+My windhawk setup. You can copy and keep the things you like, change the things you don't. <br>
+
+**Update:** I added a lot more mods from windhawk and it's kinda hard to keep track of them, so I'm gonna show you the mods that I installed in [Mod List](json/ModList.md). <br>
+Comment in discussion if you want the JSON for any specific mod or if you want to share your own setup.
 
 ## Common Style Constants
 
@@ -8,6 +11,34 @@ My windhawk setup. You can copy and keep the things you like, change the things 
 
 BlueAmount="0" meaning it won't blur the background.
 You can change the TintColor if the text is hard to see, use a dark color if text color is white and vice versa.
+
+## Dock Animation
+
+<details>
+	<summary>Preview</summary>
+	<p>Too lazy to take a screenshot.</p>
+</details>
+
+<details>
+	<summary>JSON</summary>
+
+```json
+{
+	"AnimationType": 0,
+	"MaxScale": 130,
+	"EffectRadius": 100,
+	"SpacingFactor": 50,
+	"BounceDelay": 0,
+	"FocusDuration": 150,
+	"MirrorForTopTaskbar": 0,
+	"DisableVerticalBounce": 1,
+	"TaskbarLabelsMode": 1,
+	"ExcludeSystemButtonsMode": 0,
+	"LerpSpeed": 35,
+	"DisableBounce": 1
+}
+```
+</details>
 
 ## Taskbar
 
